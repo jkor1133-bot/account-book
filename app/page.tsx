@@ -96,7 +96,7 @@ export default function Home() {
       <header className="bg-background">
         <div className="mx-auto w-full max-w-lg px-5 pt-10 pb-2 sm:px-6 sm:pt-14">
           <h1 className="text-[2rem] leading-tight font-semibold tracking-tight sm:text-[2.25rem]">
-            나의 AI 가계부
+            나의 스마트 가계부
           </h1>
         </div>
       </header>
